@@ -7,13 +7,13 @@
 </h1>
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/gileraa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://wa.me/+79879173661">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://vk.com/gileraa">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   </div>
