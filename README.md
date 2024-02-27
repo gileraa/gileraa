@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM2d3prZjZ1aXJ5d3hkMjNreXNmNzN4OTZxanNsdWg1anhodTdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM2d3prZjZ1aXJ5d3hkMjNreXNmNzN4OTZxanNsdWg1anhodTdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"/>
 </div>
- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM2d3prZjZ1aXJ5d3hkMjNreXNmNzN4OTZxanNsdWg1anhodTdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"
 
 
 <!--
