@@ -23,7 +23,7 @@
 
 ---
 
-[Материалы за 6 лет обучения в Самарском университете.](https://github.com/SSAU-gilera)
+[Университет](https://github.com/SSAU-gilera)
 
 ---
 
